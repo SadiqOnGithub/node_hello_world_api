@@ -1,6 +1,6 @@
-# node_hello_world_api
+# Node Hello World API
 
-This is to test node deployment on server
+This is to test node deployment on servers (VM/containers)
 
 
 Here's the installation guide formatted in markdown syntax:
