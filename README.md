@@ -5,7 +5,6 @@ This is to test node deployment on server
 
 Here's the installation guide formatted in markdown syntax:
 
-```markdown
 # Install NVM and Node
 
 ## Install NVM
@@ -61,4 +60,3 @@ Here's the installation guide formatted in markdown syntax:
    ```
    node -v && npm -v
    ```
-```
